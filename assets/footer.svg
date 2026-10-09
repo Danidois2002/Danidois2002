@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 140" width="1280" height="140" role="img" aria-label="Merci pour la visite">
+  <title>Merci pour la visite</title>
+  <defs><clipPath id="r"><rect width="1280" height="140" rx="24"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="1280" height="140" fill="#0d1328"/>
+    <path d="M-1280 92 Q-1200 76 -1120 92 T-960 92 Q-880 76 -800 92 T-640 92 Q-560 76 -480 92 T-320 92 Q-240 76 -160 92 T0 92 Q80 76 160 92 T320 92 Q400 76 480 92 T640 92 Q720 76 800 92 T960 92 Q1040 76 1120 92 T1280 92 Q1360 76 1440 92 T1600 92 Q1680 76 1760 92 T1920 92 Q2000 76 2080 92 T2240 92 Q2320 76 2400 92 T2560 92 Q2640 76 2720 92 T2880 92" fill="none" stroke="#7c5cff" stroke-width="2.5" stroke-linecap="round" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-320 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+    <path d="M-1280 104 Q-1200 92 -1120 104 T-960 104 Q-880 92 -800 104 T-640 104 Q-560 92 -480 104 T-320 104 Q-240 92 -160 104 T0 104 Q80 92 160 104 T320 104 Q400 92 480 104 T640 104 Q720 92 800 104 T960 104 Q1040 92 1120 104 T1280 104 Q1360 92 1440 104 T1600 104 Q1680 92 1760 104 T1920 104 Q2000 92 2080 104 T2240 104 Q2320 92 2400 104 T2560 104 Q2640 92 2720 104 T2880 104" fill="none" stroke="#f5b544" stroke-width="2.5" stroke-linecap="round" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="-320 0;0 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+    <path d="M-1280 116 Q-1200 107 -1120 116 T-960 116 Q-880 107 -800 116 T-640 116 Q-560 107 -480 116 T-320 116 Q-240 107 -160 116 T0 116 Q80 107 160 116 T320 116 Q400 107 480 116 T640 116 Q720 107 800 116 T960 116 Q1040 107 1120 116 T1280 116 Q1360 107 1440 116 T1600 116 Q1680 107 1760 116 T1920 116 Q2000 107 2080 116 T2240 116 Q2320 107 2400 116 T2560 116 Q2640 107 2720 116 T2880 116" fill="none" stroke="#4cc3ff" stroke-width="2.5" stroke-linecap="round" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-320 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+  </g>
+  <text x="640" y="60" text-anchor="middle" style="font: 700 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff;">Merci pour la visite, à bientôt !</text>
+</svg>
