@@ -55,11 +55,12 @@ const danial = {
     <td width="50%" valign="top">
       <a href="https://danidois2002.github.io/HalaMadrid/"><img src="assets/halamadrid.webp" alt="Site ¡Hala Madrid!" /></a>
       <h3><a href="https://danidois2002.github.io/HalaMadrid/">⚽ ¡Hala Madrid!</a></h3>
-      <p>Site de supporters du Real Madrid : terrain tactique, effectifs filtrables et une boutique avec des <b>maillots dessinés en SVG</b> à floquer en direct.</p>
+      <p>Site de supporters du Real Madrid, <b>full-stack</b> : un front React relié à une <b>API Node.js / PostgreSQL</b>. Connexion JWT avec rôles, commandes calculées par le serveur, 22 tests automatisés et des maillots SVG à floquer en direct.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/SVG-ffb13b?style=flat-square&logo=svg&logoColor=black" alt="SVG" />
-        <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <a href="https://danidois2002.github.io/HalaMadrid/"><b>Démo →</b></a> · <a href="https://github.com/Danidois2002/HalaMadrid">Code</a>
     </td>
