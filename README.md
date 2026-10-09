@@ -21,7 +21,7 @@ const danial = {
   role:        "Développeur web junior",
   focus:       ["Front-end", "Back-end", "Mobile"],
   formation:   "Développement Back-End · IFAPME Liège (2026-2027)",
-  ville:       "Vielsalm, Belgique",
+  pays:        "Belgique",
   langues:     ["Français", "Anglais", "Arabe", "Arménien"],
   projetPhare: "GymSocial, mon app mobile de fitness (lancement prévu en décembre 2026)",
   devise:      "Transformer des idées en code, un commit à la fois.",
