@@ -80,11 +80,12 @@ const danial = {
     <td width="50%" valign="top">
       <a href="https://danidois2002.github.io/diagnostic-supply-chain/"><img src="assets/diagnostic-supply-chain.webp" alt="Diagnostic Supply Chain" /></a>
       <h3><a href="https://danidois2002.github.io/diagnostic-supply-chain/">📦 Diagnostic Supply Chain</a></h3>
-      <p>Quiz de maturité réalisé pendant mon <b>stage chez Logistics in Wallonia</b> : 27 questions, résultat avec graphiques et rapport PDF.</p>
+      <p>Quiz de maturité réalisé pendant mon <b>stage chez Logistics in Wallonia</b>, devenu <b>full-stack</b> : front React, <b>API Node.js / PostgreSQL</b>, lien de résultat partageable, comparaison entre entreprises et espace admin avec graphiques et export Excel. 43 tests automatisés.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <a href="https://danidois2002.github.io/diagnostic-supply-chain/"><b>Démo →</b></a> · <a href="https://github.com/Danidois2002/diagnostic-supply-chain">Code</a>
     </td>
